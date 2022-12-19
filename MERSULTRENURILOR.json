@@ -1,0 +1,29 @@
+[
+  {
+    "ID_TREN": 1,
+    "PLECARE": "Bucuresti Nord",
+    "SOSIRE": "Constanta",
+    "DATA_PLECARE": "2022-12-17 20:10:00",
+    "DATA_SOSIRE": "2022-12-17 22:37:00",
+    "INTARZIERI": 32,
+    "ESTIMARE_SOSIRE": null
+  },
+  {
+    "ID_TREN": 2,
+    "PLECARE": "Constanta",
+    "SOSIRE": "Bucuresti Nord",
+    "DATA_PLECARE": "2022-12-17 20:00:00",
+    "DATA_SOSIRE": "2022-12-17 22:28:30",
+    "INTARZIERI": 12,
+    "ESTIMARE_SOSIRE": null
+  },
+  {
+    "ID_TREN": 3,
+    "PLECARE": "Bucuresti Nord",
+    "SOSIRE": "Cluj-Napoca",
+    "DATA_PLECARE": "2022-12-17 21:01:51",
+    "DATA_SOSIRE": "2022-12-18 07:34:05",
+    "INTARZIERI": 65,
+    "ESTIMARE_SOSIRE": null
+  }
+]

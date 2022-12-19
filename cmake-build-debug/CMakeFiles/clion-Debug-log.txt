@@ -1,0 +1,4 @@
+/home/carina/CLion-2022.3/clion-2022.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/carina/CLion-2022.3/clion-2022.3/bin/ninja/linux/ninja -G Ninja -S /home/carina/CLionProjects/MersulTrenurilor -B /home/carina/CLionProjects/MersulTrenurilor/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/carina/CLionProjects/MersulTrenurilor/cmake-build-debug

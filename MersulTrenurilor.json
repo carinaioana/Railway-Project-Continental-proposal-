@@ -1,0 +1,29 @@
+[
+  {
+    "id_tren": 1,
+    "plecare": "Bucuresti Nord",
+    "sosire": "Constanta",
+    "data_plecare": "2022-12-16",
+    "data_sosire": "2022-12-17",
+    "intarzieri": 32,
+    "estimare_sosire": null
+  },
+  {
+    "id_tren": 2,
+    "plecare": "Constanta",
+    "sosire": "Bucuresti Nord",
+    "data_plecare": "2022-12-16",
+    "data_sosire": "2022-12-17",
+    "intarzieri": 12,
+    "estimare_sosire": null
+  },
+  {
+    "id_tren": 3,
+    "plecare": "Bucuresti Nord",
+    "sosire": "Cluj-Napoca",
+    "data_plecare": "2022-12-16",
+    "data_sosire": "2022-12-17",
+    "intarzieri": 65,
+    "estimare_sosire": null
+  }
+]
